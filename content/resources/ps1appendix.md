@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a7e68fa4-7c2b-1a94-1b59-f4490719cec3
 resourcetype: Document
 title: ps1appendix.pdf
 uid: a6542b22-da40-983f-c294-bc2612c0a019

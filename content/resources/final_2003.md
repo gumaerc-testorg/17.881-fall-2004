@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 92cb4a0b-65f4-3df0-9eb7-3f9dd9f74185
 resourcetype: Document
 title: final_2003.pdf
 uid: 69b82e2e-749e-4a7c-43ba-a38f830352ce
