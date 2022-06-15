@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section lists the required texts and assigns selections to be read
+  for each lecture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 7f47e811-b7d0-109b-7197-f04bc4f58ae2
 ---
