@@ -5,6 +5,7 @@ file: /courses/17-881-game-theory-and-political-theory-fall-2004/6ada12ff2a117e7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps10solution.pdf
 uid: 6ada12ff-2a11-7e7f-142a-9a55f60743ef
 ---
 This resource contains solutions to problem set 10.
-

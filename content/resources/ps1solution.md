@@ -5,6 +5,7 @@ file: /courses/17-881-game-theory-and-political-theory-fall-2004/c1940c17cec89d9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1solution.pdf
 uid: c1940c17-cec8-9d92-ccd3-6c19f795eadf
 ---
 This resource contains solution to probem set 1.
-

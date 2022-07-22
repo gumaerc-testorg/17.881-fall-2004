@@ -5,6 +5,7 @@ file: /courses/17-881-game-theory-and-political-theory-fall-2004/1b05c12566c5aa8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps4appendix.pdf
 uid: 1b05c125-66c5-aa8d-9ecc-67f6c3a7a571
 ---
 This resource contains morrow exercise.
-

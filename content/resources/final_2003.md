@@ -5,6 +5,7 @@ file: /courses/17-881-game-theory-and-political-theory-fall-2004/69b82e2e749e4a7
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final_2003.pdf
 uid: 69b82e2e-749e-4a7c-43ba-a38f830352ce
 ---
 This resource contains the questions on the 2003 final exam.
-
