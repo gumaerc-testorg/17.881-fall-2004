@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2004",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -43,6 +44,6 @@
   "learning_resource_types": [
     "Exams with Solutions"
   ],
-  "site_uid": "a1e4fef4-ec97-47be-8c31-d06636b4302e",
+  "site_uid": "845411dd-8c5c-4c0e-8ad3-16646eff22c8",
   "title": "Course Metadata"
 }
