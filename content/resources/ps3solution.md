@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains solution to probem set 3.
-file: /courses/17-881-game-theory-and-political-theory-fall-2004/68702fed0b21707b27616c2f159eaa85_ps3solution.pdf
+file: /ol-ocw-studio-app/courses/17-881-game-theory-and-political-theory-fall-2004/68702fed0b21707b27616c2f159eaa85_ps3solution.pdf
+file_size: 68504
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Answers to problem set questions.
-file: /courses/17-881-game-theory-and-political-theory-fall-2004/c3e40cb139083f93579856613401269e_ps2solution.pdf
+file: /ol-ocw-studio-app/courses/17-881-game-theory-and-political-theory-fall-2004/c3e40cb139083f93579856613401269e_ps2solution.pdf
+file_size: 56636
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains appendix of problem set 6.
-file: /courses/17-881-game-theory-and-political-theory-fall-2004/6621a28c781a04d118ec9027c144d0eb_ps6appendix.pdf
+file: /ol-ocw-studio-app/courses/17-881-game-theory-and-political-theory-fall-2004/6621a28c781a04d118ec9027c144d0eb_ps6appendix.pdf
+file_size: 168064
 file_type: application/pdf
 learning_resource_types:
 - Assignments

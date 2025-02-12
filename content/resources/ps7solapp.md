@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains appendix to problem set 7.
-file: /courses/17-881-game-theory-and-political-theory-fall-2004/eb307f557db045b8146cfa9420d2faf8_ps7solapp.pdf
+file: /ol-ocw-studio-app/courses/17-881-game-theory-and-political-theory-fall-2004/eb307f557db045b8146cfa9420d2faf8_ps7solapp.pdf
+file_size: 182171
 file_type: application/pdf
 learning_resource_types:
 - Assignments

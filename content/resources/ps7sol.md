@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains solution to problem set 7.
-file: /courses/17-881-game-theory-and-political-theory-fall-2004/1cb0839ff2f62c2decd5ba9069832392_ps7sol.pdf
+file: /ol-ocw-studio-app/courses/17-881-game-theory-and-political-theory-fall-2004/1cb0839ff2f62c2decd5ba9069832392_ps7sol.pdf
+file_size: 70753
 file_type: application/pdf
 learning_resource_types:
 - Assignments

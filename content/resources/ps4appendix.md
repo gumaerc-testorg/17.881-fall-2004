@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains morrow exercise.
-file: /courses/17-881-game-theory-and-political-theory-fall-2004/1b05c12566c5aa8d9ecc67f6c3a7a571_ps4appendix.pdf
+file: /ol-ocw-studio-app/courses/17-881-game-theory-and-political-theory-fall-2004/1b05c12566c5aa8d9ecc67f6c3a7a571_ps4appendix.pdf
+file_size: 103515
 file_type: application/pdf
 learning_resource_types:
 - Assignments

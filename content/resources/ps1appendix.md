@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains a Gibbons 1.3. Best-response functions graph.
-file: /courses/17-881-game-theory-and-political-theory-fall-2004/a6542b22da40983fc294bc2612c0a019_ps1appendix.pdf
+file: /ol-ocw-studio-app/courses/17-881-game-theory-and-political-theory-fall-2004/a6542b22da40983fc294bc2612c0a019_ps1appendix.pdf
+file_size: 13056
 file_type: application/pdf
 learning_resource_types:
 - Assignments
